@@ -1,0 +1,12 @@
+lcd.c:5:6:delay	2
+lcd.c:10:6:lcdDelay	1
+lcd.c:15:6:lcdCmd	9
+lcd.c:59:6:lcdCharCp	9
+lcd.c:104:6:lcdOutCp	2
+lcd.c:115:6:lcdInit	1
+lcd.c:132:6:lcdGotoXY	3
+lcd.c:144:6:lcdChar	1
+lcd.c:150:6:lcdPrint	1
+lcd.c:156:6:lcdClear	1
+lcd.c:162:6:lcdLine1	1
+lcd.c:167:6:lcdLine2	1
